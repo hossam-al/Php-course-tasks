@@ -3,7 +3,8 @@ $show = false;
 $message = "";
 $password="123456";
 if(isset($_POST["set"])){
-
+ 
+    
     if($password == $_POST["Current"]){
 
 
