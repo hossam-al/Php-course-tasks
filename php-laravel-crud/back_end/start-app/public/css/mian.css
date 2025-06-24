@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+}
+.card {
+    background-color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    color: white;
+}
+
+.card-body {
+    background-color: #666;
+    color: white;
+    border-radius: 10px;
+}
+
+.form-group{
+    margin: 10px 0px;
+}
+.form-control , .form-select label{
+    margin: 10px 0px;
+}
