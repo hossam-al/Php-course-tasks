@@ -4,7 +4,7 @@
 
 <form method="POST" action="{{ route('admin.update', $admin->id) }}" enctype="multipart/form-data">
     @csrf
- 
+
 
     <div class="pagetitle">
         <h1>Admin Profile</h1>
